@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "436428011848",
+    "firebase_url": "https://desknote-cee91.firebaseio.com",
+    "project_id": "desknote-cee91",
+    "storage_bucket": "desknote-cee91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436428011848:android:046b595dc2a96dc2d19b7d",
+        "android_client_info": {
+          "package_name": "com.hfad.desknote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436428011848-4e5b54mu1g2ib95slh4hi9fr8mjr11i7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.desknote",
+            "certificate_hash": "82d28b212216a37fef075a138051024294865355"
+          }
+        },
+        {
+          "client_id": "436428011848-k3rli8l8s4v5kbv0pgjn0hpv3pkk6lpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjQLqVLhEgaJV1va-tjvVy9DZtfeTcxVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436428011848-k3rli8l8s4v5kbv0pgjn0hpv3pkk6lpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
