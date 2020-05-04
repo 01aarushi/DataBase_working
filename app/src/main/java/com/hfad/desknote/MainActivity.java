@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         setSupportActionBar(toolbar);
 
         firebaseFirestore= FirebaseFirestore.getInstance();
-        Query query = firebaseFirestore.collection("Notes").orderBy("title", Query.Direction.DESCENDING);
+        Query query = firebaseFirestore.collection("NOTES").orderBy("title", Query.Direction.DESCENDING);
         FirestoreRecyclerOptions<Note> allnotes= new FirestoreRecyclerOptions.Builder<Note>()
                 .setQuery(query,Note.class)
                 .build();
